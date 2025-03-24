@@ -4,3 +4,4 @@ venv
 *.parquet
 *.csv
 *.crdownload
+.env
