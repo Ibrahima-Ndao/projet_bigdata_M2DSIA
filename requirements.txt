@@ -1,0 +1,9 @@
+pandas
+psycopg2-binary
+requests
+pyarrow
+jupyter
+minio
+python-dotenv
+polars
+sqlalchemy
